@@ -7,7 +7,7 @@ body{
     border: 5px solid rgb(165, 5, 11);
     padding: 0%;
     background-color: rgb(123, 123, 123);
-    height: 1300px;
+    height: 1000px;
     width: 95%;
     background-image: none;
 }
@@ -33,7 +33,7 @@ body{
 
 .poeple{
     position: absolute;
-    top: 1400px ;
+    top: 700px ;
     right: 85% ;
     width: 10% ;
     height: 10% ;
@@ -43,7 +43,7 @@ body{
     background-color: rgb(145, 145, 145);
     width: 144px;
 }
-
+/*p stands for priceing priceing*/
 .p1{
     font-size: 40px;
 }
@@ -58,6 +58,6 @@ body{
 
 .contact{
     position: absolute;
-    top: 70%;
-    right: 75%;
+    top: 500px;
+    right: 1100px;
 }

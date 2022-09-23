@@ -1,12 +1,11 @@
 body{
-    background-color: white;
+    background-image: url("png.jpg") ;
 }
 
 .everything{
     margin: auto;
-    width: 50%;
     border: 5px solid rgb(165, 5, 11);
-    padding: 1%;
+    padding: 0%;
     background-color: rgb(123, 123, 123);
     height: 1300px;
     width: 95%;
@@ -34,8 +33,8 @@ body{
 
 .poeple{
     position: absolute;
-    top: 5% ;
-    right: 3% ;
+    top: 1400px ;
+    right: 85% ;
     width: 10% ;
     height: 10% ;
 }
@@ -59,6 +58,6 @@ body{
 
 .contact{
     position: absolute;
-    top: 700px;
-    right: 50;
+    top: 70%;
+    right: 75%;
 }

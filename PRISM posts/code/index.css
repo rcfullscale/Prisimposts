@@ -1,0 +1,65 @@
+body{
+    background-color: white;
+}
+
+.everything{
+    margin: auto;
+    width: 50%;
+    border: 5px solid rgb(165, 5, 11);
+    padding: 10px;
+    background-color: rgb(123, 123, 123);
+    height: 1300px;
+    width: 1800px;
+    background-image: none;
+}
+
+.page-title-div{
+    font-size: 40px;
+}
+
+.page-title{
+    text-align: center;
+}
+
+.whatdo{
+    background-color: rgb(145, 145, 145);
+    width: 500px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.dis1{
+    text-align: left;
+}
+
+.poeple{
+    position: absolute;
+    top: 1000px;
+    right: 50;
+    width: 200px;
+    height: 500px;
+    width: 1700px;  
+}
+
+.rodpic{
+    background-color: rgb(145, 145, 145);
+    width: 144px;
+}
+
+.p1{
+    font-size: 40px;
+}
+
+.ph2{
+    font-size: 50px; 
+}
+
+.contactsub1{
+    font-size: 40px;
+}
+
+.contact{
+    position: absolute;
+    top: 700px;
+    right: 50;
+}

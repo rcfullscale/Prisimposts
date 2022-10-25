@@ -1,0 +1,75 @@
+body{
+    background-image: url("Background.jpg") ;
+}
+
+.everything{
+    margin: auto;
+    border: 5px solid rgb(165, 5, 11);
+    padding: 0%;
+    background-color: rgb(123, 123, 123);
+    height: 1300px;
+    width: 95%;
+    background-image: none;
+}
+
+.page-title-div{
+    font-size: 40px;
+}
+
+.page-title{
+    text-align: center;
+}
+
+.whatdo{
+    background-color: rgb(145, 145, 145);
+    width: 35% ;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.dis1{
+    text-align: left;
+}
+
+.poeple{
+    position: absolute;
+    top: 700px ;
+    right: 85% ;
+    width: 10% ;
+    height: 10% ;
+}
+
+.rodpic{
+    background-color: rgb(145, 145, 145);
+    width: 144px;
+}
+
+/*p stands for priceing priceing*/
+
+.priceing{
+    top: 450px;
+}
+
+.p1{
+    font-size: 40px;
+}
+
+.ph2{
+    font-size: 50px; 
+}
+
+.contactsub1{
+    font-size: 40px;
+}
+
+.contact{
+    position: absolute;
+    top: 550px;
+    left: 60px;
+}
+
+.links{
+    top: 1500px;
+    height: fit-content;
+    width: fit-content;
+}

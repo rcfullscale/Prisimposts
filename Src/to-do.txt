@@ -1,0 +1,14 @@
+    - rename Prisimposts repo (typo + hard to read. change to e.g. prism-posts) [done]
+    - remove "PRISM posts" subfolder (unnecessary directory nesting) [done]
+    - delete "index.html.lnk" .. this is a windows short-cut and has no place in the repo [done]
+    - either rename "code" folder to e.g. src or remove (unnecessary directory nesting) [done]
+    - move *.css/*.js to e.g. /static and *.jpg to e.g. /assets (or keep in same folder but move from root folder) [files delted]
+    - rename index.js to e.g. site.js. (calling it "index" implies it's for the main page only, which works at the moment but if you were to add additional pages this no longer makes sense).... the same applies to index.css [done]
+- png.jpg ..... really??? 😉   What is it? png or jpg? Also, get an image without a watermark. Call it "background" etc. or even better, be descriptive .... e.g. bg_gray_checker_pattern.jpg
+  - dad.jpg ... rename to rodney-pearson-headshot.jpg
+- add meta tags for SEO (Search Engine Optimisation). see https://www.w3schools.com/tags/tag_meta.asp and https://moz.com/learn/seo/meta-description
+  - add favicon
+- use descriptive css class names, e.g. replace "whatdo" with "company-about" and "dis1" with "description"
+  - fix typos (priceing --> pricing)
+  - inconsistent, e.g. ph2 vs p1
+- think of mobile devices and make content interactable. e.g. replace "<b>0414278309</b>" with "<a href='tel:0414278309' class='contact-number'>0414 278 309</a>", see https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_phoneto

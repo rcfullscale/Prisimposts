@@ -1,3 +1,4 @@
 - png.jpg ..... really??? 😉   What is it? png or jpg? Also, get an image without a watermark. Call it "background" etc. or even better, be descriptive .... e.g. bg_gray_checker_pattern.jpg
 - add meta tags for SEO (Search Engine Optimisation). see https://www.w3schools.com/tags/tag_meta.asp and https://moz.com/learn/seo/meta-description
 - think of mobile devices and make content interactable. e.g. replace "<b>0414278309</b>" with "<a href='tel:0414278309' class='contact-number'>0414 278 309</a>", see https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_phoneto
+- make in dev site and dev dicotary

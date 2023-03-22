@@ -1,5 +1,6 @@
 body{
-    background-image: url("Static/Background.jpg") ;
+    background-image: url("Static/Background.jpg");
+    background-size: cover;
 }
 
 .everything{
@@ -10,6 +11,7 @@ body{
     height: 1300px;
     width: 95%;
     background-image: none;
+    opacity: 90%;
 }
 
 .page-title-div{
